@@ -13,3 +13,7 @@ def set_count(c):
     print("count in function", id(count), count)
 
 
+# sys.path.extend(['D:\\Pluralsight\\python-fundamentals\\08'])
+
+# sys.path.extend([r'D:\Pluralsight\python-fundamentals\04\demos\demos\after'])
+
