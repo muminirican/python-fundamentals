@@ -30,3 +30,4 @@ elif __name__ == "tuples":
 else:
     print("not called properly")
 
+# a, b = b, a is the idiomatic Python swap
