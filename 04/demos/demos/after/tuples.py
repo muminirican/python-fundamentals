@@ -31,3 +31,5 @@ else:
     print("not called properly")
 
 # a, b = b, a is the idiomatic Python swap
+
+# "".join(["high", "way", "man"]) will produce "highwayman", another cool python property
