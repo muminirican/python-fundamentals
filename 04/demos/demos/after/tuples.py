@@ -33,3 +33,6 @@ else:
 # a, b = b, a is the idiomatic Python swap
 
 # "".join(["high", "way", "man"]) will produce "highwayman", another cool python property
+
+# "yaşım {kek[0]}, adım {kek[1]} , arkadaşımın adı {kek[2][0]}, yaşı {kek[2][1]}".format(kek = kek)
+# 'yaşım 123, adım ksdk , arkadaşımın adı hj, yaşı 23'
