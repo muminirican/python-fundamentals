@@ -51,3 +51,8 @@ def main(url):
 
 if __name__ == '__main__':
     main(sys.argv[1]) # The 0th arg is the module filename
+
+# dir(words) command displays all the attributes of the object
+
+# after importing words you can find out what it contains
+
