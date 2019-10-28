@@ -23,7 +23,7 @@ def main():
     loop(t)
 
 
-if __name__ == "__main":
+if __name__ == "__main__":
     main()
 else:
     print("not called properly")
