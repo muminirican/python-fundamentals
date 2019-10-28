@@ -25,6 +25,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+elif __name__ == "tuples":
+    pass
 else:
     print("not called properly")
 
